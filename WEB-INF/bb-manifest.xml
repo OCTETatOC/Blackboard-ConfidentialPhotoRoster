@@ -7,7 +7,7 @@
     <description value= "Student and Participant Roster for Leaders and Instructors."/>
     <version value= "2.0"/>
     <requires>
-    	<bbversion value="9.1.14"/>
+    	<bbversion value="3000.1.1-rel.20+6fbf7f6"/>
     </requires>
     <vendor>
       <id value="octt"/>
